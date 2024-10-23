@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **machine learning projects and scalable web applications**
+ 🔭 I’m currently working on **machine learning projects and scalable web applications.**
  
  💬 Ask me about **Python, Machine Learning, Full-Stack Development... or anything [here](https://github.com/rRexhepi/rRexhepi/issues)**
 
-⚡ Fun fact **I enjoy writing poetry and perfume smelling in my spare time**
+⚡ Fun fact **I enjoy writing poetry and perfume smelling in my spare time.**
 
  </div>
  
