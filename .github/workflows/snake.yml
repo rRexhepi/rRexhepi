@@ -20,6 +20,15 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Slow down snake animation
+        run: |
+          cd dist
+          for f in *.svg; do
+            sed -i 's/animation-duration:5ms/animation-duration:12ms/g' "$f"
+            sed -i 's/animation-duration:10ms/animation-duration:24ms/g' "$f"
+            sed -i 's/animation-duration:15ms/animation-duration:36ms/g' "$f"
+          done
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
