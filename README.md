@@ -33,6 +33,14 @@
 <br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
+<h2 align="center">Trophy Case</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rRexhepi&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="trophies" />
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
 <h2 align="center">Languages</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=6" />
@@ -83,6 +91,14 @@
 <h2 align="center">Activity Graph</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rRexhepi&theme=react-dark&area=true&hide_border=true&radius=10" alt="activity graph" />
+</div>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+<h2 align="center">Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="random dev quote" />
 </div>
 
 <br/>
