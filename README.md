@@ -43,22 +43,22 @@
 
 <h2 align="center">Languages</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,swift,kotlin,c,cpp,js,ts&perline=8" />
 </div>
 
 <h2 align="center">Frameworks & Libraries</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,pytorch,tensorflow&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,fastapi,tailwind,pytorch,tensorflow&perline=8" />
 </div>
 
 <h2 align="center">Cloud & DevOps</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,github,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,firebase,supabase,github,git&perline=8" />
 </div>
 
 <h2 align="center">Databases & Tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,vscode,linux,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,androidstudio,selenium,vscode,linux,bash&perline=8" />
 </div>
 
 <br/>
