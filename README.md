@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Howdy!+%F0%9F%91%8B%F0%9F%A4%A0;I'm+Rexhep+Rexhepi!;&color=FF4500" />
 </h1>
 
-<h3 align="center">A passionate Data Scientist and Software Engineer from Kosovo</h3>
+<h3 align="center">A passionate Data Scientist and Software Engineer from Kosovo 🇽🇰 living in Texas 🤠</h3>
 
 <br/>
 
