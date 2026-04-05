@@ -79,17 +79,10 @@
 <h2 align="center">Stats</h2>
 <br/>
 <div align="center">
-  <a href="https://github.com/rRexhepi">
-    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=rRexhepi&theme=react&border_radius=10" alt="streak stats" />
-  </a>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=rRexhepi&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://r-rexhepi.vercel.app/api?username=rRexhepi&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <a href="https://github.com/rRexhepi">
-    <img width=400 src="https://r-rexhepi.vercel.app/api?username=rRexhepi&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/rRexhepi">
-    <img width=325 src="https://r-rexhepi.vercel.app/api/top-langs/?username=rRexhepi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-  </a>
+  <img width=325 src="https://r-rexhepi.vercel.app/api/top-langs/?username=rRexhepi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/>
