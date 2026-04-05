@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rRexhepi.rRexhepi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Howdy!+%F0%9F%91%8B%F0%9F%A4%A0;I'm+Rexhep+Rexhepi!;Data+Scientist+%7C+Software+Engineer;&color=FF4500" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Howdy!+%F0%9F%91%8B%F0%9F%A4%A0;I'm+Rexhep+Rexhepi!;Data+Scientist+%7C+Software+Engineer;&color=FF4500" />
 </h1>
 
 <h3 align="center">Data Scientist & Software Engineer from Kosovo 🇽🇰 living in Texas 🤠</h3>
