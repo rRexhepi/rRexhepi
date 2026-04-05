@@ -99,7 +99,7 @@
 
 <h2 align="center">Random Dev Quote</h2>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="random dev quote" />
+  <img width=450 src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=react" alt="random dev quote" />
 </div>
 
 <br/>
